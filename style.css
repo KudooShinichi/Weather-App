@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&family=Kanit:wght@600&family=Montserrat:wght@300&family=Nova+Square&family=Nunito+Sans:ital,opsz,wght@1,6..12,300&family=Poppins:ital,wght@0,300;0,400;1,300;1,400&family=Ubuntu:ital@1&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&family=Kanit:wght@600&family=Montserrat:wght@300&family=Nova+Square&family=Nunito+Sans:ital,opsz,wght@1,6..12,300&family=Poppins:ital,wght@0,300;0,400;1,300;1,400&family=Titillium+Web:wght@700&family=Ubuntu:ital@1&display=swap");
-@media screen and (max-width: 768px) {
+/*@media screen and (max-width: 768px) {
   form {
     flex-direction: column;
   }
@@ -9,7 +9,7 @@
     margin-bottom: 10px;
   }
 
-}
+}*/
 body {
   margin: 0;
   padding: 0;
